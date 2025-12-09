@@ -1,0 +1,14 @@
+{
+    "name": "vboxuser/laba8",
+    "autoload": {
+        "psr-4": {
+            "vboxuser\\laba8\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "eli"
+        }
+    ],
+    "require": {}
+}
